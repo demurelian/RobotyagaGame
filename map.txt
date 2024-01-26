@@ -1,0 +1,50 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BJJJJ        JJJJ        JJJJ        JJJJ        JJJJ                                              B
+BJ4 J        J4 J        J4 J        J4 J        J4 J                                             TB
+BJ  J        J  J        J  J        J  J        J  J                                             UB
+BJJJJ        JJJJ        JJJJ        JJJJ        JJJJ                        HHHHHH              SSB
+B  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\                      HH      HH          SSKKB
+B  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\                    HH          Z       SSKKSSB
+B  SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS                   H        a   [     SSKKSSKKB
+B                                                                      HLLLMMLLLLLLLLLLLHOOOOOOOOOOB
+Bb                                                                    H    NN            H         B
+BQ                                                                    JJJ  NN            H         B
+B                                                                    J4 J  NN             H        B
+B  Q                                                                 J  J  NN             H        B
+B                                                                   HJJJJ  NN              H       B
+B                                                                   HLLLLLLLLLLLLLLLLLLLMMLH       B
+B                                                                  H                    NN  H      B
+B      Q                                                           H                    NNJJJ      B
+B                                                                 H                     NNJ4 J     B
+B                                                                 H                     NNJ  J     B
+B                                                                H                      NNJJJJH    B
+B  Q                                                             HLMMLLLLLLLLLLLLLLLLLLLLLLLLLH    B
+B                                                               H  NN                          H   B
+B                                                               JJJNN                          H   B
+B                                                              J4 JNN                           H  B
+B      Q                                                       J  JNN                           H  B
+B                                                             HJJJJNN                           HH B
+B                                                             HHLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLMMHH B
+B                                                            HHH                              NNHHHB
+B  Q                                                         HHH                              NNHHHB
+B                                                            III                              NNMMHB
+BT                                                           IVI3               3             NNNNHB
+BU R       R    R    R    R                                  IWI                              NNNNHB
+BCCCCE   ECCCCCCCCCCCCCCCCCCCCCK          KPPPPPPPPPPPPPPPPPPHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHNNNNHB
+BEEEEE   EEEEEDDDDDDDDDDDDDDDDDKKOOOOOOOOKKP` \\        \\3 PHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHNNNNHB
+BE`b      ///EEEEDDDDDDDDDDDDDD            P                PPPPPPPPPPPPPPPPPPPPPPPPPPFFFFFHHHNNNNHB
+BEa          ///EEDDDDDDDDDDDDD            P3                                        PFGGGFHHHNNNNHB
+BE              /EEEDDDDDDDDDDD            P     ]]]2 1]]]2 1]]]2  1]]]2 1]]]        PFG GFHHHNNNNHB
+BE               //EEEDDDDDDDDDD           PP    P                           P       PFG GFHHHNNNNHB
+BE                 //EEDDDDDDDDD            P     PPPPPPPPPPPPPPPPPPPPPPPPPPP        PFG GFHHHNNNNHB
+BE            ]]]    /EEEEEDDDDDD           P                                        PFG GFHHHNNNNHB
+BE            EEE     ////EEEEDDD           P                                        PFG GFHHHNNNNHB
+BE                        ///EEEDE          P      ]]]]1 1 ]]]]1 1 ]]]]1 1 ]]]] _P   PFG GFHHHNNNNHB
+BE                 ]]        //EDE          P                                  PPP   PFG GFHHHNNNNHB
+BE            ]A]  PP   ]]]    EEE           P     PPPPPPPPPPPPPPPPPPPPPPPPPPPPP     PFGGGFHHHNNNNHB
+BE            PPP       PPP    /EE           PP                                      PFFFFFHHHNNNNHB
+BE                          ]]]]]]]                                                   GGGGGIIINNNNHB
+BE]]]                       ]]]^]]]          ]]]]]     ]]]]]     ]]]]]     ]]]]]      GGVGGIXINNNNHB
+BE]]]     ]AA]     ]AA]     ]]]]]]]                                                   GGWGGIYINNNNHB
+BEEEEAAAAAEEEEAAAAAEEEEAAAAAEEEEEEEAAAAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPAAAAPFFFFFHHHHHHHHB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
