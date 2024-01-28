@@ -12,4 +12,4 @@ The project is a platformer game in which the player must complete a level. The 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUyYXM4cTMwZmg5dGlnMGk5a3hydGtuNmVibW1reDFtbzk5dGUweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G9tUPFGMv6znlAkE8r/giphy-downsized-large.gif)
 
 ![gif](https://media.giphy.com/media/6tYl8o3XsG05QLgZPi/giphy.gif)
-# An educational, non-commercial project, all materials are used for educational purposes and are taken from public sources.
+# *An educational, non-commercial project, all materials are used for educational purposes and are taken from public sources.
